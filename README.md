@@ -22,7 +22,7 @@
 
 ## Part 08. 자료구조(Stack & Queue)
 
-## Part 09. 자려구조(Graph)
+## Part 09. 자료구조(Graph)
 
 ## Part 10. 깊이 우선 탐색
 
