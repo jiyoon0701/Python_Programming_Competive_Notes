@@ -3,8 +3,8 @@
 ## Part 03. 완전탐색#1
 
 - [x] maxofarr
-- [ ] offset
-- [ ] classs president
+- [x] offset
+- [x] classs president
 - [ ] attackrange
 - [ ] colorpaper
 - [ ] rock *
