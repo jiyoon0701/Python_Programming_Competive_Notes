@@ -12,6 +12,10 @@
 
 ## Part 04. 완전탐색#2
 
+- [ ] bingo
+- [ ] tetris
+- [ ] seat
+
 ## Part Bonus Part
 
 ## Part 05. 문자열
