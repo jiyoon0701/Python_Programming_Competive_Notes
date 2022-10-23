@@ -5,8 +5,8 @@
 - [x] maxofarr
 - [x] offset
 - [x] classs president
-- [ ] attackrange
-- [ ] colorpaper
+- [x] attackrange
+- [x] colorpaper
 - [ ] rock *
 - [ ] 행렬 뒤집기
 
