@@ -7,8 +7,8 @@
 - [x] classs president
 - [x] attackrange
 - [x] colorpaper
-- [ ] rock *
-- [ ] 행렬 뒤집기
+- [x] rock *
+- [x] 행렬 뒤집기
 
 ## Part 04. 완전탐색#2
 
