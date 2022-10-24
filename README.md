@@ -12,7 +12,8 @@
 
 ## Part 04. 완전탐색#2
 
-- [ ] bingo
+- [x] bingo
+- [ ] baseball
 - [ ] tetris
 - [ ] seat
 
