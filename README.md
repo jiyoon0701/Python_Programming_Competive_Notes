@@ -13,11 +13,20 @@
 ## Part 04. 완전탐색#2
 
 - [x] bingo
-- [ ] baseball
-- [ ] tetris
-- [ ] seat
+- [x] baseball
+- [x] tetris
+- [x] seat
 
 ## Part Bonus Part
+- [ ] 정렬 구현하기 
+- [ ] nextnum
+- [ ] beehive
+- [ ] fibonacci
+- [ ] combinationzero
+- [ ] lcm
+- [ ] streetree
+- [ ] findprime
+- [ ] chebyshevtheo
 
 ## Part 05. 문자열
 
