@@ -18,7 +18,6 @@
 - [x] seat
 
 ## Part Bonus Part
-- [ ] 정렬 구현하기 
 - [ ] nextnum
 - [ ] beehive
 - [ ] fibonacci
