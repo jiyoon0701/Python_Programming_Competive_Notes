@@ -19,9 +19,9 @@
 
 ## Part Bonus Part
 - [x] mergeSort
-- [ ] nextnum
-- [ ] beehive
-- [ ] fibonacci
+- [x] nextnum
+- [x] beehive
+- [x] fibonacci
 - [ ] combinationzero
 - [ ] lcm
 - [ ] streetree
