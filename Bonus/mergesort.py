@@ -1,3 +1,12 @@
+'''
+입력
+10
+2 5 3 4 8 7 -1 9 10 2
+
+출력
+-1 2 2 3 4 5 7 8 9 10
+
+'''
 def merge_sort(arr, N):
     def sort(low, high):
         if high - low < 2:
