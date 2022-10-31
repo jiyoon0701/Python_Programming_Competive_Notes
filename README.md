@@ -18,6 +18,7 @@
 - [x] seat
 
 ## Part Bonus Part
+- [x] mergeSort
 - [ ] nextnum
 - [ ] beehive
 - [ ] fibonacci
